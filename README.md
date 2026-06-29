@@ -12,6 +12,6 @@ Hello, I am **Vedant Tewari**, a second year PhD student at Arizona State Univer
 - 🌱 I’m currently learning Rust
 - 👯 I collaborate on LLVM, GNU
 - 💬 Ask me about (I am a Student 😀)
-- 📫 How to reach me: vtewari@asu.edu 
+- 📫 How to reach me: vtewari1@asu.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love ⚽️ 
